@@ -3,7 +3,7 @@ import gradio as gr
 from uuid import uuid4
 
 # 🔐 Configure your Gemini API key
-genai.configure(api_key="AIzaSyAOhChr70W2x2zXHYmy7phfWFPNVY19VTI")
+genai.configure(api_key="YOUR_API_KEY")
 
 # 🌟 Initialize Gemini model
 model = genai.GenerativeModel("gemini-1.5-flash-8b")
