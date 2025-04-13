@@ -1,0 +1,1 @@
+I learned how to deploy this gradio app using the azure container registry and continous deployment pipleines 
